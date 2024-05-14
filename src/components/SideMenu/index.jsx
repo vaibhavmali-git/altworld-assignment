@@ -35,9 +35,9 @@ function SideMenu() {
       ></Menu>
       <div className="sidebar-div">
         <button className="sidebar-button">+</button>
-        <h4>New assignment</h4>
+        <div className="sidebardiv"><h4>New assignment</h4>
         <p>Select from predefined questions to have a quick turnaround</p>
-        <button className="sidebar-button1">Create new Assignment</button>
+        <button className="sidebar-button1">Create new Assignment</button></div>
       </div>
     </div>
   );

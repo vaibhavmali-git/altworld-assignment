@@ -6,6 +6,20 @@
   .candidate-profile {
     width: auto !important;
   }
+
+  .sidebar-div {
+    width: 30%;
+    background-color: white;
+  }
+  .sidebar-div button {
+    background-color: #1ec3b3;
+  }
+  .sidebardiv {
+    display: none !important;
+  }
+  .ant-menu-title-content {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 650px) {
@@ -19,6 +33,20 @@
   .cards {
     flex-wrap: wrap;
   }
+
+  .sidebar-div {
+    width: 30%;
+    background-color: white;
+  }
+  .sidebar-div button {
+    background-color: #1ec3b3;
+  }
+  .sidebardiv {
+    display: none !important;
+  }
+  .ant-menu-title-content {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 900px) {
@@ -27,9 +55,23 @@
   }
   .candidate-profile {
     flex-wrap: wrap;
+    width: 80% !important;
   }
 
   .cards {
     flex-wrap: wrap;
+  }
+  .sidebar-div {
+    width: auto !important;
+    background-color: white !important;
+  }
+  .sidebar-div button {
+    background-color: #1ec3b3 !important;
+  }
+  .sidebardiv {
+    display: none !important;
+  }
+  .ant-menu-title-content {
+    display: none;
   }
 }
