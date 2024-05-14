@@ -110,4 +110,8 @@ table th {
     width: 91%;
     height: auto;
   }
+
+  .candidate-profile{
+    width: 90% !important;
+  }
 }
