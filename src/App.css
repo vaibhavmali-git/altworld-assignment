@@ -1,18 +1,35 @@
 @media screen and (max-width: 600px) {
-  .candidate-assignments{
+  .candidate-assignments {
     display: none !important;
   }
 
-  .candidate-profile{
+  .candidate-profile {
     width: auto !important;
   }
 }
 
-@media screen and (max-width: 768px) {
-  .candidate-assignments{
-    display: none !important;
-  }
+@media screen and (max-width: 650px) {
   .candidate-profile {
     width: auto !important;
+  }
+  .candidate-profile {
+    flex-wrap: wrap;
+  }
+
+  .cards {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .candidate-profile {
+    width: auto !important;
+  }
+  .candidate-profile {
+    flex-wrap: wrap;
+  }
+
+  .cards {
+    flex-wrap: wrap;
   }
 }
