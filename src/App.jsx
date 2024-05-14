@@ -18,7 +18,7 @@ function App() {
         <SideMenu />
         <div style={{ display: "flex", gap: "30px" }}>
           <AssignmentCard setSelectedUser={setSelectedUser} />
-          <CandidateProfile selectedUser={selectedUser} />
+          {/* <CandidateProfile selectedUser={selectedUser} /> */}
         </div>
       </div>
     </>

@@ -21,7 +21,7 @@
         "shortlisted": false,
         "score": 60,
         "behavioral": 7,
-        "communication": 8,
+        "communication": 5,
         "situation_handling": 6
       },
       {
@@ -44,8 +44,8 @@
         "status": "active",
         "shortlisted": true,
         "score": 44,
-        "behavioral": 8,
-        "communication": 8,
+        "behavioral": 4,
+        "communication": 6,
         "situation_handling": 9
       },
       {
@@ -57,7 +57,7 @@
         "shortlisted": false,
         "score": 75,
         "behavioral": 7,
-        "communication": 8,
+        "communication": 5,
         "situation_handling": 7
       }
     ]
