@@ -1,0 +1,65 @@
+{
+    "users": [
+      {
+        "Name": "John Doe",
+        "id": 1,
+        "email": "john.doe@example.com",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/261.jpg",
+        "status": "active",
+        "shortlisted": true,
+        "score": 85,
+        "behavioral": 7,
+        "communication": 9,
+        "situation_handling": 6
+      },
+      {
+        "Name": "Jane Smith",
+        "id": 2,
+        "email": "jane.smith@example.com",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/917.jpg",
+        "status": "inactive",
+        "shortlisted": false,
+        "score": 60,
+        "behavioral": 7,
+        "communication": 8,
+        "situation_handling": 6
+      },
+      {
+        "Name": "Alice Johnson",
+        "id": 3,
+        "email": "alice.johnson@example.com",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/577.jpg",
+        "status": "active",
+        "shortlisted": true,
+        "score": 92,
+        "behavioral": 9,
+        "communication": 9,
+        "situation_handling": 9
+      },
+      {
+        "Name": "Michael Brown",
+        "id": 4,
+        "email": "michael.brown@example.com",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/911.jpg",
+        "status": "active",
+        "shortlisted": true,
+        "score": 44,
+        "behavioral": 8,
+        "communication": 8,
+        "situation_handling": 9
+      },
+      {
+        "Name": "Emily Taylor",
+        "id": 5,
+        "email": "emily.taylor@example.com",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/410.jpg",
+        "status": "active",
+        "shortlisted": false,
+        "score": 75,
+        "behavioral": 7,
+        "communication": 8,
+        "situation_handling": 7
+      }
+    ]
+  }
+  

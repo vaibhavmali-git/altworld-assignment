@@ -1,0 +1,73 @@
+.assignment-card{
+    padding: 10px 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    border-radius: 10px;
+    height: 560px;
+}
+
+.assignment-flex{
+    display: flex;
+    gap: 10rem;
+    align-items: center;
+    padding: 7px;
+    justify-content: space-between;
+    font-size: 13px;
+}
+
+.assignment-flex th{
+    color: gray;
+}
+.assignment-flex p{
+    margin-bottom: 0.1rem;
+
+}
+
+.assignment-flex p, a, span{
+    font-weight: 700;
+    color: rgb(144, 144, 144);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(83, 104, 199);
+}
+
+.table-image{
+    display: flex;
+    flex-direction: row;
+    gap: 13px;
+    align-items: center;
+    
+}
+
+.table-image img{
+    width: 40px;
+    border-radius: 7px;
+}
+
+.headings{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+td, tr{
+    padding: 7px;
+    transition: all ease 0.4s;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+td:hover{
+    background-color: rgb(217, 217, 217);
+    border-radius: 10px;
+}
+
+.pencil-icon{
+    padding: 2px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    border-radius: 5px;
+    width: 23px;
+    padding: 7px;
+    margin-left: 10px;
+}

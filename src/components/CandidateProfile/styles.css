@@ -1,0 +1,108 @@
+.candidate-profile {
+  padding: 18px 25px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  border-radius: 10px;
+  font-size: 13px;
+  display: flex;
+  gap: 30px;
+  width: 65%;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 6px;
+}
+
+.profile img {
+  border-radius: 10px;
+  width: 60px;
+}
+
+.carousel {
+  padding: 10px;
+  color: #595959;
+  width: 400px !important;
+}
+
+.carousel p {
+  margin: 0px 40px;
+  font-weight: 600;
+  font-size: 11px;
+}
+
+.carousel-status{
+    color: rgb(26, 127, 125) !important;
+    text-shadow: none !important;
+}
+
+button.control-arrow{
+    color: #595959 !important;
+    background-color:#838383 !important;
+    border-radius: 10px;
+}
+
+.candidate-rating {
+  padding-bottom: 5px;
+}
+
+.candidate-rating p {
+  padding-bottom: 6px;
+  font-weight: 600;
+}
+
+.candidate-rating p span {
+  width: 150px;
+  display: inline-block;
+}
+
+.cadidate-info p {
+  padding-top: 3px;
+  padding-bottom: 10px;
+  font-size: 11px;
+  line-height: 20px;
+  color: #595959;
+}
+
+.progress {
+  display: inline-block;
+  border-radius: 20px;
+  height: 12px; /* Adjust the height of the progress bar */
+  background-color: #bec0c3; /* Set the color of the progress bar */
+  margin-left: 5px; /* Add margin to separate the progress bar from the text */
+}
+
+.candidate-assignments {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  /* background-color: #e2e8f0; */
+  border-radius: 20px;
+}
+
+.candidate-assignments img {
+  border-radius: 10px;
+}
+
+.dot {
+  display: none !important;
+}
+
+.candidate-assignments img {
+  width: 400px;
+}
+
+.profile-button {
+  padding: 10px 80px;
+  width: 100%;
+  border: none;
+  background-color: #1ec3b3;
+  border-radius: 10px;
+  color: white;
+  font-weight: 600;
+}
+
